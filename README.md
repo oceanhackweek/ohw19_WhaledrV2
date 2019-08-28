@@ -33,36 +33,36 @@ https://swipesforscience.org/
 
 Refine Megaptera user interface:
 
-  -[ ] zoom controls on spectogram
+  - [ ] zoom controls on spectogram
+   
+  - [ ] axes labels
   
-  -[ ] axes labels
+  - [ ] informative image titles (data, location)
   
-  -[ ] informative image titles (data, location)
+  - [ ] 'flail' button
   
-  -[ ] 'flail' button
+  - [ ] fix chat link
   
-  -[ ] fix chat link
-  
-  -[ ] or combine chat with swipe interface
+  - [ ] or combine chat with swipe interface
   
   
 Add to tutorial:
 
-  -[ ] add labels explaining spectograms (dolphin vs whale)
+  - [ ] add labels explaining spectograms (dolphin vs whale)
   
   
 Add to researcher setup guide:
 
-  -[ ] add steps for people with no coding or firebase experience
+  - [ ] add steps for people with no coding or firebase experience
   
-  -[ ] explain S3 buckets, file types and conversions(base64, .json), Travis, git/github, firebase
+  - [ ] explain S3 buckets, file types and conversions(base64, .json), Travis, git/github, firebase
   
   
 Understand backend:
 
-  -[ ] what do researchers get? file types? data?
+  - [ ] what do researchers get? file types? data?
   
-  -[ ] formatting backend results
+  - [ ] formatting backend results
 
 
 **Existing methods**
