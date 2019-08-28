@@ -3,12 +3,12 @@
 Whaledr version 2.0 for bigger and more general app 
 
 
-Project title
+**Project title**
 
 Whaledr version 2.0 
 
 
-Collaborators on this project
+**Collaborators on this project**
 
 Sarah Barnes-Carson
 
@@ -19,7 +19,7 @@ Derya Gumustel
 Kerri Seger
 
 
-The problem
+**The problem**
 
 Outreach, accessibility, reducing workload for researchers annotating large sets of image-based data.
 
@@ -29,63 +29,57 @@ http://megaptera.swipesforscience.org/#/
 
 https://swipesforscience.org/
 
-Specific tasks
+**Specific tasks**
 
 Refine Megaptera user interface:
 
-  -zoom controls on spectogram
+  -[ ] zoom controls on spectogram
   
-  -axes labels
+  -[ ] axes labels
   
-  -informative image titles (data, location)
+  -[ ] informative image titles (data, location)
   
-  -'flail' button
+  -[ ] 'flail' button
   
-  -fix chat link
+  -[ ] fix chat link
   
-  -or combine chat with swipe interface
+  -[ ] or combine chat with swipe interface
   
   
 Add to tutorial:
 
-  -add labels explaining spectograms (dolphin vs whale)
+  -[ ] add labels explaining spectograms (dolphin vs whale)
   
   
 Add to researcher setup guide:
 
-  -add steps for people with no coding or firebase experience
+  -[ ] add steps for people with no coding or firebase experience
   
-  -explain S3 buckets, file types and conversions(base64, .json), Travis, git/github, firebase
+  -[ ] explain S3 buckets, file types and conversions(base64, .json), Travis, git/github, firebase
   
   
 Understand backend:
 
-  -what do researchers get? file types? data?
+  -[ ] what do researchers get? file types? data?
   
-  -formatting backend results
+  -[ ] formatting backend results
 
 
-Existing methods
+**Existing methods**
 
 Currently, recordings of whale song are annotated manually by students and researchers. It can take months to get through these recordings! 
 
 
-Proposed methods/tools
+**Proposed methods/tools**
 
 Interactive web-based learning app.
 
 
-Relevant information
+**Relevant information**
 
-The original whaledr:
+[The original whaledr](https://github.com/whaledr/whaledr)
 
-https://github.com/whaledr/whaledr
+[Swipes for Science](https://github.com/SwipesForScience/SwipesForScience)
 
-Swipes for Science:
-
-https://github.com/SwipesForScience/SwipesForScience
-
-Firebase documentation:
-
-https://firebase.google.com/docs?authuser=0
+[Firebase documentation](https://firebase.google.com/docs?authuser=0)
 
