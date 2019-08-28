@@ -1,14 +1,14 @@
-## OHW_19_WhaledrV2
+# OHW_19_WhaledrV2
 
 Whaledr version 2.0 for bigger and more general app 
 
 
-# **Project title**
+## **Project title**
 
 Whaledr version 2.0 
 
 
-# **Collaborators on this project**
+## **Collaborators on this project**
 
 Sarah Barnes-Carson
 
@@ -18,9 +18,7 @@ Derya Gumustel
 
 Kerri Seger
 
-___ 
-
-# **The problem**
+## **The problem**
 
 Outreach, accessibility, reducing workload for researchers annotating large sets of image-based data.
 
@@ -30,7 +28,7 @@ http://megaptera.swipesforscience.org/#/
 
 https://swipesforscience.org/
 
-# **Specific tasks**
+## **Specific tasks**
 
 Refine Megaptera user interface:
 
@@ -66,17 +64,17 @@ Understand backend:
   - [ ] formatting backend results
 
 
-# **Existing methods**
+## **Existing methods**
 
 Currently, recordings of whale song are annotated manually by students and researchers. It can take months to get through these recordings! 
 
 
-# **Proposed methods/tools**
+## **Proposed methods/tools**
 
 Interactive web-based learning app.
 
 
-# **Relevant information**
+## **Relevant information**
 
 [The original whaledr](https://github.com/whaledr/whaledr)
 
